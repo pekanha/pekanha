@@ -1,6 +1,6 @@
 # Rafael Pessanha
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Rafael Duarte Pesssanha, tenho 15 anos e sou natural do Rio de Janeiro.
 
